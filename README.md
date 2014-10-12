@@ -1,4 +1,4 @@
-sharppcap
+SharpPcap
 =========
 
 Forked from http://sourceforge.net/projects/sharppcap/ at version `4.2.0` on `2014/09/13`. Minor alterations have been made to this forked version, those updates are detailed below.
